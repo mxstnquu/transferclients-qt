@@ -1,6 +1,6 @@
 file_downloads/
 
 build/
-qmake-client.pro
+*.pro
 .qtcreator/
 .vscode/
