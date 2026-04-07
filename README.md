@@ -17,7 +17,7 @@ https://github.com/mxstnquu/transferserver-qt
 
 ## Dependencies
 
-- Qt6 (Core, Network)
+- Qt6 (Core, Widgets, Network)
 - CMake
 - g++
 
